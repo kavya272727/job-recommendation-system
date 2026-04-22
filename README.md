@@ -31,7 +31,17 @@ This is a simple Python-based job recommendation system that suggests job roles 
 ## 📂 Project Structure
 
 * job_recommender.py  → Main Python file
+* 
+## 🤖 Machine Learning Version
 
-## 🙌 Author
+This project also includes a basic ML-based recommendation system.
+
+* Uses CountVectorizer for text processing
+* Uses Naive Bayes algorithm for classification
+* Predicts job roles based on user input skills
+
+Run:
+python job_recommender_ml.py
+
 
 Kavya
