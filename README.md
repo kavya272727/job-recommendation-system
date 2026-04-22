@@ -1,5 +1,3 @@
-# job-recommendation-system
-“A simple Python-based job recommendation system using rule-based logic”
 # Job Recommendation System
 
 ## 📌 Overview
